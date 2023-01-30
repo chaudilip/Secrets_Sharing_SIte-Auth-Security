@@ -20,7 +20,10 @@ npm i mongoose-encryption.
 
 💥 ------------------- First Commit --------------------------------- 💥
 
-Second commit is done in app.js file where you can see the new npm packages are required
+Second commit is done in app.js file where you can see the new npm packages are required ,
+In second commit we are using the session for check the whether the user is authenticate or not .
+If user is authenticate then we save the details of user in cookies and stored it for the some times .
+When user click on logout we will destory the cookie and session will be destroyed .
 
 Packages You Need To installl is :-
 
